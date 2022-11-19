@@ -1,0 +1,1 @@
+total2 = (jam_kerja * 7500);
